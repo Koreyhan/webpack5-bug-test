@@ -1,0 +1,17 @@
+{
+  "name": "@koreyhan/webpack3-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "3.2.0",
+    "webpack": "3.12.0",
+    "webpack-dev-server": "2.11.5"
+  }
+}
